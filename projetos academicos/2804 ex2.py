@@ -1,7 +1,8 @@
-inicio = int(input("Digite o valor em Fahrenheit: "))
+inicio = int(input("Digite o valor inicial em Fahrenheit: "))
 fim = int(input("Digite o valor final em Fahrenheit: "))
 
 print("Fahrenheit | Celsius")
+print("-----------------")
 
 
 if inicio <= fim:
