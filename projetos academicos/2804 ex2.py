@@ -13,4 +13,4 @@ if inicio <= fim:
 else:
     for f in range(inicio, fim - 1, -1):
         c = 5 * (f - 32) / 9
-        print(f"{f:.1f} °F | {c:.3f} °C.")
+        print(f"{f:.1f} °F | {c:.3f} °C")
